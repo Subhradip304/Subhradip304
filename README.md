@@ -1,3 +1,24 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050a0e,30:0f0c29,60:302b63,100:24243e&height=250&section=header&text=SUBHRADIP%20MANDAL&fontSize=55&fontColor=00d4ff&fontAlignY=42&desc=CSE%20Student%20%E2%80%A2%20C%20%7C%20Java%20%7C%20Python%20%7C%20DSA&descAlignY=62&descSize=17&animation=fadeIn&stroke=7c3aed&strokeWidth=2" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Subhradip304&color=00d4ff&style=flat-square&label=Profile+Views)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Subhradip304?label=Followers&style=flat-square&color=7c3aed)
+&nbsp;
+![Stars](https://img.shields.io/github/stars/Subhradip304?label=Stars&style=flat-square&color=10b981)
+
+</div>
+
+<br/>
+
+---
+
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on AI, Cybersecurity & Software Development projects<br><br>🤝 I’m looking for help with Advanced DSA and scalable application development<br><br>🌱 I’m currently learning Java, DSA, SQL, Selenium & Software Engineering<br><br>💬 Ask me about Java, DSA, Python, SQL, AI/ML & Cybersecurity<br><br>⚡ Fun fact: I love turning ideas into practical projects and learning new technologies
 
@@ -16,3 +37,17 @@
 [![](https://komarev.com/ghpvc/?username=Subhradip304&icon=9&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+![snake gif](https://github.com/Subhradip304/Subhradip304/blob/output/github-contribution-grid-snake.gif)
