@@ -50,4 +50,8 @@
 
 
 
-![snake gif](https://github.com/Subhradip304/Subhradip304/blob/output/github-contribution-grid-snake.gif)
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
